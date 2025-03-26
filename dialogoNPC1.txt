@@ -1,3 +1,5 @@
 - Hola aventurero, bienvenido a mi taberna.
 - Hoy es un hermoso día para beber algo.
 - Dime, ¿Eres de por aquí?
+
+["dialogoNPC-SI"]
